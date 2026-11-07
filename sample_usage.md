@@ -1,0 +1,1 @@
+Run `streamlit run app.py`, upload the companion `T5_Project_Tracker.xlsx`, inspect both project reports and download Markdown output. Test without a Groq key first.

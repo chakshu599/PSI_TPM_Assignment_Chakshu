@@ -40,4 +40,3 @@ Record one actual error observed while using your AI coding assistant. Example f
 
 ## AI tool disclosure
 ChatGPT was used to help structure the assignment deliverables and draft the initial application. If you use Claude Code, Cursor or another assistant to modify the code, disclose that tool and the actual prompts in your final submission.
-# PSI_TPM_Assignment_Chakshu
